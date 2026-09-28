@@ -1,0 +1,6 @@
+package org.isfce.pid.model;
+
+public enum EtatDossier {
+DEMANDE_EN_COURS,TRAITEMENT_DIRECTION,TRAITEMENT_PROFESSEUR,TRAITE,CLOTURE
+}
+
